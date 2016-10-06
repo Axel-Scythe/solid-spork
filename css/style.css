@@ -1,0 +1,11 @@
+body{
+	font-family: "Agency FB";
+	color: white;
+	background-color: black;
+	border: 20px solid white;
+	border-radius: 50px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: rgba(225,100,225, 150);
+}
