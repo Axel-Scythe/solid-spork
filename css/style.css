@@ -4,12 +4,22 @@ body{
 	background-color: black;
 	border: 20px solid white;
 	border-radius: 50px;
+	padding: 20px;
 }
 
 h1,h2,h3,h4,h5,h6{
-	color: rgba(225,100,225, 150);
+	color: rgba(225,100,225,150);
 	text-align: center;
 }
+
+button{
+	color:rgba(225,100,225,150);
+	border: 5px solid white;
+	border-radius: 50px;
+	background-color: black;
+
+}
+
 
 /*
 Classes
